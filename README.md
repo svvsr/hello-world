@@ -1,2 +1,3 @@
 # hello-world
 exciting time to come ...
+for the shift from subversion to git
